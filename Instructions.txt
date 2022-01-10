@@ -219,5 +219,3 @@ References:
     collected via python script from zillow
     not correct - https://www.kaggle.com/jamesleslie/titanic-cleaned-data
     
-    
-    Testing data
